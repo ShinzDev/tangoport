@@ -9,12 +9,13 @@ import "./globals.css";
 
 export default function Home() {
   return (
-    <main  className=" flag  m-1.5">
+    <main  className=" flag  ">
       <div > 
         {/* <Navbar /> */}
         <Header/>
         {/* <Body/> */}
         {/* <Footer /> */}
+      
       </div>
     </main>
   );
