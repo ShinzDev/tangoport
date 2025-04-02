@@ -9,11 +9,12 @@ import "./globals.css";
 
 export default function Home() {
   return (
-    <main  className=" flag  ">
+    <main  className="   ">
       <div > 
         {/* <Navbar /> */}
-        <Header/>
-        {/* <Body/> */}
+        {/* <Header/> */}
+        <br />
+        <Body/>
         {/* <Footer /> */}
       
       </div>
