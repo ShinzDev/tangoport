@@ -12,9 +12,9 @@ export default function Home() {
     <main  className="   ">
       <div > 
         {/* <Navbar /> */}
-        {/* <Header/> */}
+        <Header/>
         <br />
-        <Body/>
+        {/* <Body/> */}
         {/* <Footer /> */}
       
       </div>
