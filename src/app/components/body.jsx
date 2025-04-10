@@ -5,8 +5,9 @@ import Techskills from "./techskills.jsx";
 export default function Home() {
   return (
     <main className="  ml-5 mr-5">
-      <div className="topdiv flex justify-center gap-3">
-        <Hellocomp />
+      <div className="absolute flex justify-center  border border-e-red-900 p-0 m-0 gap-3">
+
+        < Hellocomp  className="relative"/>
 
         {/*  middle long */}
 

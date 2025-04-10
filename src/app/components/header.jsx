@@ -8,8 +8,12 @@ export default function Header() {
       <h1 className="font-[Rinjani]  text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-9xl font-black">
       Frontend Developer
       </h1>
-      <p>hi i am Shina</p>
+      <p className=" text-3xl sm:text-2xl font-[poppins] ">hi i am Shina</p>
+      <button className=" rounded p-2 w-30 transition delay-100 ease-in-out hover:opacity-50 text-blue-50  bg-gray-700">
+        Click
+      </button>
      </div>
+    
     </main>
   );
 }
