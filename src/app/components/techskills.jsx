@@ -1,10 +1,11 @@
 export default function Techskills() {
     return (
-      <main className=" ">
-        <div className="first rounded h-90 w-auto border p-30 ">
-          <h1 className=" text-5xl ">What i know</h1>
-          <p>welcome to myport gogodmdps</p>
-        </div>
+      <main >
+          <div className="w-auto">
+            <h1>Technical Skill </h1>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste eveniet iure unde officiis distinctio beatae, optio possimus qui. Natus distinctio explicabo omnis harum placeat nulla ex quaerat quis totam vitae.</p>
+          </div>
       </main>
     );
   }
